@@ -16,7 +16,7 @@ Simple-CRUD is a user-friendly interface that allows you to perform basic CRUD (
 This project was created as part of the course "Desenvolvendo um Projeto Completo em Python com Estruturas de Dados" offered by Fundação Bradesco.
 
 # Getting Started
-To use Simple-CRUD, you don't need to install any dependencies or run commands. You can simply download the executable (.exe) file provided in the [Releases](https://github.com/arthur-cristo-silva/Simple-CRUD/releases) section. Once downloaded, double-click the .exe file to run the application on your local machine.
+To use Simple-CRUD, you don't need to install any dependencies or run commands. You can simply download the executable (.exe) file provided in the files section. Once downloaded, double-click the .exe file to run the application on your local machine.
 
 # Usage
 Once the application is running, you can easily manage your user data through the intuitive graphical interface. Add, delete, update, and filter users to meet your specific needs.
